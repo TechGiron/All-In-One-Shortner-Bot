@@ -26,7 +26,7 @@
             "value": ""
         },
         "API_URL": {
-            "description": "https://techori.in/api?api={api_key}&url={i['href']}",
+            "description": "https://techori.in/api",
             "value": ""
         },
         "BOT_TOKEN": {
