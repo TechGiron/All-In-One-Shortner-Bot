@@ -26,7 +26,7 @@
             "value": ""
         },
         "API_URL": {
-            "description": "https://techori.in/member/tools/api",
+            "description": "https://techori.in/api?api=893c0de390c3d00426347e7e2e799d8fe8242185&url=yourdestinationlink.com&alias=CustomAlias&format=text",
             "value": ""
         },
         "BOT_TOKEN": {
