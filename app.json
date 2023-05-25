@@ -10,27 +10,27 @@
 	"Tnlink",
 	"pdisklinkshortener"
     ],
-    "website": "https://github.com/Cyniteofficial/All-In-One-Shortener-Bot",
-    "repository": "https://github.com/Cyniteofficial/All-In-One-Shortener-Bot",
+    "website": "https://github.com/TechGiron/All-In-One-Shortner-Bot",
+    "repository": "https://github.com/TechGiron/All-In-One-Shortner-Bot",
     "env": {
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "df64deb205933fbe14e50237b5ab68f2",
             "value": ""
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "17030067",
             "value": ""
         },
         "API_KEY": {
-            "description": "Get API key from your Website",
+            "description": "893c0de390c3d00426347e7e2e799d8fe8242185",
             "value": ""
         },
         "API_URL": {
-            "description": "Paste ONLY ONE API URL From Your Link Shortener Website, Examples are given here: https://github.com/AkBotZ/Link-Shortener-Bot#api-url-of-some-sites-are",
+            "description": "https://techori.in/member/tools/api",
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "Your bot token, Get it from @Botfather",
+            "description": "5707227554:AAEzEF36nfH_g9X1Ud60WJYirx3kAacwALM",
             "value": ""
         }
     },
